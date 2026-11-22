@@ -1,0 +1,6 @@
+{
+  "name": "Etanolun Məhkəməsi",
+  "description": "Sağlam həyat tərzi və kimya üzrə interaktiv rollu məhkəmə oyunu — etanolun insan orqanizminə zərərləri və sənaye-tibb faydaları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
